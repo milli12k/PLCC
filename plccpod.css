@@ -1,0 +1,65 @@
+
+.container {
+
+    height: 500px;
+    width: 378px;
+    border: 1px solid gray;
+    padding: 16px;
+}
+
+.secDiv{
+    background-color: rgb(244,244,244);
+
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+h1{
+    font-size: 24px;
+}
+
+.thirdDiv{
+    font-size: 13px;
+}
+
+.terms{
+    text-decoration: underline;
+    opacity: 1;
+}
+
+img{
+    width: 300px;
+    height: 188;
+}
+
+.fourthDiv{
+
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+    font-size: 15px;
+}
+
+.fifthDiv
+{
+opacity: 0.3;
+   
+ 
+}
+
+.sixDiv{
+
+
+    border: 1px rgb(249,99, 2) solid;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    overflow: hidden;
+    margin:auto;
+   
+}
+
+a{
+    color: rgb(249,99, 2)
+}

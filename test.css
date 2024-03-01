@@ -1,0 +1,13 @@
+body {
+    background-image: url(./back.jpeg);
+    color: aliceblue;
+   
+}
+
+a:visited{
+    color: red;
+}
+
+a{
+    color: white;
+}
